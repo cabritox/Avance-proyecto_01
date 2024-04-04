@@ -3,7 +3,7 @@
 class Queso:
     def __init__(self,queso):
         
-        #Inicializando atributos privado
+        #Definiendo atributos privados
         self.__queso = queso
     
     #Metodo accedador al atributo 'queso'
