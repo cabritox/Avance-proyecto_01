@@ -1,3 +1,4 @@
+#Importaciones de las clases 'objeto'
 from queso import Queso
 from maduracion import Maduracion
 from camara import Camara
